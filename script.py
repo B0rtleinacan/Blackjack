@@ -4,6 +4,8 @@ class Dealer:
     
     def __init__(self, deal, hit, stay):
         self.deal 
+        self.hit
+        self.stay
 
 class Player:
 
